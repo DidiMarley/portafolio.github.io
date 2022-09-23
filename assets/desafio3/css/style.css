@@ -83,6 +83,11 @@ header .portada img{
 
 /* Imágenes */
 
+.img img{
+    width: 30%;
+    margin: 1%;
+}
+
 .img1{
     background-color: black;
     color: white;
