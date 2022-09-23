@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap');
+
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+/* Header */
+header .titulo h1{
+    font-weight: 500;
+    font-size: 3rem;
+    text-align: center;
+    padding: 0.5rem 0;
+    text-transform: uppercase;
+}
+
+header .portada img{
+    width: 100%;
+}
+
+/* Descripción */
+.descripcion{
+    padding: 0 15%;
+}
+
+
+.descripcion td{
+    width: 50%;
+    padding: 5% 0px;
+}
+
+.descripcion .imagen{
+    padding-left: 5%;
+}
+
+.descripcion .imagen img{
+    width: 100%;
+}
+
+.descripcion .parrafo p{
+    font-weight: 300;
+    font-size: large;
+}
+
+
+/* Características */
+
+.caracteristicas{
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 3rem 25%;
+}
+
+.caracteristicas h2{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+
+.caracteristica{
+    display: inline-block;
+    width: 30%;
+    padding: 1%;
+}
+
+.caracteristica i{
+    font-size: 4rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.caracteristica p{
+    font-weight: 300;
+}
+
+
+/* Imágenes */
+
+.img1{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 1em;
+}
+
+.img2{
+    background-color: black;
+    color: white;
+    width: 30%;
+    display: inline-block;
+    padding: 1em;
+}
+
+.img3{
+    background-color: black;
+    color: white;
+    float: inline-end;
+    padding: 1em;
+}
+
+/* Footer */
+footer{
+    font-family: 'Raleway', sans-serif;
+    background-color: #1E1A13;
+    color: #FFFFFF;
+}

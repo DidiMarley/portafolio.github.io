@@ -1,0 +1,85 @@
+.header{
+    color: azure;
+    height: 100%;
+    padding: 4em;
+    font-size: 2em;
+    background-image: url("/assets/desafio2/imgs/header.jpg");
+    background-size: cover;
+    background-position: center;
+    font-size: larger;
+    font-family: helvetica, Verdana, Tahoma, sans-serif;
+}
+
+.producto1{
+    padding: 2em 0;
+    background-color: lightseagreen;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    text-align: left;
+}
+
+.producto1 td{
+    width: 50%;
+    padding: 2em;
+    font-size: 1em;
+}
+    
+.producto1 img{
+        width: 50%;
+
+}
+
+.producto2{
+    padding: 2em 0;
+    background-color: lightcoral;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    text-align: left;
+}
+
+.producto2 td{
+    width: 50%;
+    padding: 2em;
+    font-size: 1em;
+}
+    
+.producto2 img{
+        width: 25%;
+}
+
+
+.producto3{
+    padding: 2em 0;
+    background-color: lightskyblue;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    text-align: left;
+}
+
+.producto3 td{
+    width: 50%;
+    padding: 2em;
+    font-size: 1em;
+}
+    
+.producto3 img{
+        width: 45%;
+}
+
+
+p{font-family: helvetica;}
+
+.footer{
+    color: azure;
+    height: 50%;
+    padding: 2em;
+    font-size: 2em;
+    background-image: url("/assets/desafio2/imgs/footer.jpg");
+    background-size: cover;
+    background-position: center;
+    font-size: medium;
+    font-family: helvetica, Verdana, Tahoma, sans-serif;
+}
